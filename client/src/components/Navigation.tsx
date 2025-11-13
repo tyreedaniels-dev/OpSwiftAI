@@ -31,7 +31,7 @@ export function Navigation() {
   };
 
   const navItems = [
-    { label: "About", id: "about" },
+    { label: "About123", id: "about" },
     { label: "Services", id: "services" },
     { label: "Team", id: "team" },
     { label: "Testimonials", id: "testimonials" },
