@@ -30,7 +30,7 @@ export function Hero() {
           backgroundRepeat: "no-repeat",
         }}
       >
-        {/* <LightRays
+        <LightRays
           raysOrigin="top-center"
           raysColor="#00ffff"
           raysSpeed={1.5}
@@ -41,7 +41,7 @@ export function Hero() {
           noiseAmount={0}
           distortion={0}
           className="custom-rays"
-        /> */}
+        />
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 py-32 lg:py-40">
